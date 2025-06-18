@@ -4,3 +4,9 @@ beautifulsoup4
 markdownify
 requests
 playwright
+sentence-transformers
+faiss-cpu
+numpy
+pydantic
+python-multipart
+psutil
